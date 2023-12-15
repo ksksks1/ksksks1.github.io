@@ -33,7 +33,14 @@
   padding: 0px 10px;
   font-family: sans-serif, Arial, Helvetica;
 }
-
+li:nth-child(odd)
+{
+    background:#ffffff;
+}
+li:nth-child(even)
+{
+    color:#e5e4e2;
+}
 .pub1 {
   width:640px;
   height: 100px;
