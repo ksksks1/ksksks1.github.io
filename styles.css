@@ -35,18 +35,18 @@
 }
 .pub1 {
   width:640px;
-  height: 100px;
   background-color: #FFFFFF;
   font-family: sans-serif, Arial, Helvetica;
   padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .pub2 {
   width:640px;
-  height: 100px;
   background-color: #E5E4E2;
   font-family: sans-serif, Arial, Helvetica;
   padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
