@@ -17,7 +17,6 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-family: sans-serif, Arial, Helvetica;
-  font-size: 25px;
   color: #818181;
   display: block;
 }
@@ -29,9 +28,18 @@
 
 /* Style page content */
 .main {
+  width: 640px;
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
   font-family: sans-serif, Arial, Helvetica;
+}
+
+.pub {
+  width:640px;
+  height: 100px;
+  background-color: #818181;
+  font-family: sans-serif, Arial, Helvetica;
+  padding-top: 8px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
