@@ -35,11 +35,11 @@
 }
 li:nth-child(odd)
 {
-    background:#ffffff;
+    background-color:#ffffff;
 }
 li:nth-child(even)
 {
-    color:#e5e4e2;
+    background-color:#e5e4e2;
 }
 .pub1 {
   width:640px;
