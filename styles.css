@@ -34,10 +34,18 @@
   font-family: sans-serif, Arial, Helvetica;
 }
 
-.pub {
+.pub1 {
   width:640px;
   height: 100px;
-  background-color: #818181;
+  background-color: #FFFFFF;
+  font-family: sans-serif, Arial, Helvetica;
+  padding-top: 8px;
+}
+
+.pub2 {
+  width:640px;
+  height: 100px;
+  background-color: #E5E4E2;
   font-family: sans-serif, Arial, Helvetica;
   padding-top: 8px;
 }
