@@ -9,7 +9,9 @@
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+  padding-left: 6px;
   font-family: sans-serif, Arial, Helvetica;
+  color: #818181;
 }
 
 /* The navigation menu links */
